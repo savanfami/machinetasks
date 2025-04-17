@@ -78,8 +78,8 @@ const Table = () => {
         },
      
         input: {
-          width: '100%',
-          border: 'none',
+          width: '97%',
+          
         }
       };
     
